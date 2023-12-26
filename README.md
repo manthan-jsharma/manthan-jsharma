@@ -7,5 +7,5 @@ proficient in Django and Python i can leverage them to develop high-performance 
 
 - 🌱 I’m currently learning Python and Django along with keen intrest in frontend technologies such as React and Javascript
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **Software Engineering** and **Anime**
+- 💬 Ask me about **Software Engineering**,**Anime**,**Anthropology** and **Calisthenics**
 
