@@ -3,7 +3,7 @@
 i have been meticulously approaching advancing technologies accordingly to my equally proliferated skills and emerging intrest.
 proficient in Django and Python i can leverage them to develop high-performance web applications.
 
-Have also been a Freelance Developer with Dominant Stack as Node.js, Next.js, Strapi, React.js, socket.io, Redux, Rest APIs, Computer Vision API, Scraping(scrapy).
+Have also been a Freelance Developer with Dominant Stack as Node.js, Next.js, Strapi, React.js, socket.io, Redux, Rest APIs, Computer Vision API, Scraping(scrapy), MongoDb, Postman, PostgreSql.
 
 ---
 
