@@ -8,6 +8,8 @@ Have also been a Freelance Developer with Dominant Stack as Node.js, Next.js, St
 ---
 
 - 🌱 I’m learning Python and Django along with keen intrest in frontend technologies such as React and Javascript, Current aim is to publish my own animation library on NPM.
+- 🌱 I’m currently learning Unity, Unreal engine and AI Models
 - 👯 I’m also looking to collaborate on open source/commercial projects
+- 📝 I regularly write articles on medium, https://medium.com/@manthan.jsharma
 - 💬 Ask me about **Software Engineering**,**Anime**,**Anthropology** and **Calisthenics**
 
