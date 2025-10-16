@@ -5,6 +5,8 @@ proficient in Django and Python i can leverage them to develop high-performance 
 
 Have also been a Freelance Developer with Dominant Stack as Node.js, Next.js, Strapi, React.js, socket.io, Redux, Rest APIs, Computer Vision API, Scraping(scrapy), MongoDb, Postman, PostgreSql.
 
+Worked with MCP Hosting, Building RAG Pipelines, LAngChain, LangGraph, Java (SpringBoot), Worked on API Outsourcing Platform, AI Gaming Engine Platform.
+
 ---
 
 - 🌱 I’m learning Python and Django along with keen intrest in frontend technologies such as React and Javascript, Current aim is to publish my own animation library on NPM.
