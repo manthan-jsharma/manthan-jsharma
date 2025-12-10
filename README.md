@@ -6,6 +6,7 @@ proficient in Django and Python i can leverage them to develop high-performance 
 Have also been a Freelance Developer with Dominant Stack as Node.js, Next.js, Strapi, React.js, socket.io, Redux, Rest APIs, Computer Vision API, Scraping(scrapy), MongoDb, Postman, PostgreSql, FastAPI
 
 Worked with MCP Hosting, Building RAG Pipelines, LangChain, LangGraph, Java (SpringBoot), Worked on API Outsourcing Platform, AI Gaming Engine Platform.
+
 💬 Currently managing a Private Repo to turn it into OpenSource -> it is About Locally Running LLM that tracks progress over issues Production/oncall engineers work upon, guides them, Documents the Progress/tools used, and streams to the Server for other dev/oncall engineers to process and sync
 
 ---
