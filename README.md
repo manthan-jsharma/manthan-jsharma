@@ -17,5 +17,5 @@ Worked with MCP Hosting, Building RAG Pipelines, LangChain, LangGraph, Java (Spr
 - 📝 I regularly write articles on medium, https://medium.com/@manthan.jsharma
 - 💬 Ask me about **Software Engineering**,**Anime**,**Anthropology** and **Calisthenics**
 - 💬 Here is a Link to My PortFolio: https://portfolio-1-mu-lyart.vercel.app/
-- 💬 Here is a Link to My Resume: https://drive.google.com/file/d/17ve7EF6Vpk5J-VChA9aei9WsAfLIGHiN/view?usp=sharing
+- 💬 Here is a Link to My Resume: https://drive.google.com/file/d/1WwcNu1uJjw5nPYpHQuc9fCHCGMO1dLBu/view?usp=sharing
 
