@@ -1,9 +1,8 @@
 
 ## Hi there, I'm Manthan Sharma👋
-i have been meticulously approaching advancing technologies accordingly to my equally proliferated skills and emerging intrest.
-proficient in Django and Python i can leverage them to develop high-performance web applications.
+Worked with Seniors from Stripe, Naukri.com with Contract basis, Learned a lot, shipped a lot, Broke a lot
 
-Have also been a Freelance Developer with Dominant Stack as Node.js, Next.js, Strapi, React.js, socket.io, Redux, Rest APIs, Computer Vision API, Scraping(scrapy), MongoDb, Postman, PostgreSql, FastAPI
+Also manage my own AI Agency where i partenered with 3M$+ ARR Agency to ship their Automated Client-Admin ONboarding engine with Project roadmaps and Ticketing system for Production issues,
 
 Worked with MCP Hosting, Building RAG Pipelines, LangChain, LangGraph, Java (SpringBoot), Worked on API Outsourcing Platform, AI Gaming Engine Platform.
 
@@ -11,11 +10,9 @@ Worked with MCP Hosting, Building RAG Pipelines, LangChain, LangGraph, Java (Spr
 
 ---
 
-- 🌱 I’m learning Python and Django along with keen intrest in frontend technologies such as React and Javascript, Current aim is to publish my own animation library on NPM.
-- 🌱 I’m currently learning Unity, Unreal engine and AI Models
-- 👯 I’m also looking to collaborate on open source/commercial projects
+- 🌱 I’m learning Python and Django along with keen intrest in frontend technologies such as React and Javascript, Currently working on my own DCP: Deployment COntext Protocol for AI Agents.
 - 📝 I regularly write articles on medium, https://medium.com/@manthan.jsharma
 - 💬 Ask me about **Software Engineering**,**Anime**,**Anthropology** and **Calisthenics**
-- 💬 Here is a Link to My PortFolio: https://portfolio-1-mu-lyart.vercel.app/
+- 💬 Here is a Link to My PortFolio: https://manthansharma-portfolio.vercel.app/
 - 💬 Here is a Link to My Resume: https://drive.google.com/file/d/1WwcNu1uJjw5nPYpHQuc9fCHCGMO1dLBu/view?usp=sharing
 
