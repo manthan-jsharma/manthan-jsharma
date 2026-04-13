@@ -1,10 +1,14 @@
 
 ## Hi there, I'm Manthan Sharma👋
-Worked with Seniors from Stripe, Naukri.com with Contract basis, Learned a lot, shipped a lot, Broke a lot
+Worked with Seniors from Stripe, Naukri.com with Contract basis, Learned a lot, shipped a lot, Broke a lot, 
+Checkoout this Doc where i explain what features i shipped for thousands of users : 
+https://docs.google.com/document/d/1AjR842V6Rzqu0BK6J0-YbKDO73YkD8kqf_TH9PCX2GU/edit?usp=sharing
 
-Also manage my own AI Agency where i partenered with 3M$+ ARR Agency to ship their Automated Client-Admin ONboarding engine with Project roadmaps and Ticketing system for Production issues,
+Also manage my own AI Agency where i partenered with 3M$+ ARR Agency to ship their Automated Client-Admin ONboarding engine with Project roadmaps and Ticketing system for Production issues.
 
-Worked with MCP Hosting, Building RAG Pipelines, LangChain, LangGraph, Java (SpringBoot), Worked on API Outsourcing Platform, AI Gaming Engine Platform.
+Agency :[ bettertechnify.com](https://www.bettertechnify.com/)
+
+Worked with MCP Hosting, Building RAG Pipelines, LangChain, LangGraph, LangSmith, Java (SpringBoot), Worked on API Outsourcing Platform, AI Gaming Engine Platform.
 
 💬 Currently managing a Private Repo to turn it into OpenSource -> it is About Locally Running LLM that tracks progress over issues Production/oncall engineers work upon, guides them, Documents the Progress/tools used, and streams to the Server for other dev/oncall engineers to process and sync
 
